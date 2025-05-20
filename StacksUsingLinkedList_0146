@@ -38,3 +38,6 @@ class Stack
         if (isEmpty())
         {
             cout << "Stack is Empty" << endl; 
+            }
+
+        cout << "Popped Value: " << top -> data << endl; 
